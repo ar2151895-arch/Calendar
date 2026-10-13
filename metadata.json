@@ -1,0 +1,8 @@
+{
+  "name": "Vishwa Calendar AI",
+  "description": "Universal calendar application with multi-year Hindu, Indian, and International festivals, custom function management, panchang insights, and Gemini AI festival knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
